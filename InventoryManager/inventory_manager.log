@@ -1,0 +1,8 @@
+Feb 22, 2025 2:50:26 PM inventorymanager.InventoryManager <init>
+INFO: Initialized with CSV path: C:\Users\ralph\OneDrive\Documents\NetBeansProjects\InventoryManager\inventory_data.csv
+Feb 22, 2025 2:50:26 PM inventorymanager.InventoryManager loadInventory
+WARNING: Invalid CSV header found. Reinitializing file.
+Feb 22, 2025 2:50:26 PM inventorymanager.InventoryManager loadInventory
+INFO: Loaded 49 items from inventory
+Feb 22, 2025 2:51:10 PM inventorymanager.InventoryManager deleteItem
+WARNING: Attempted to delete item that is not old and sold: PWM3MJWPYE
